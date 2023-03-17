@@ -1,0 +1,37 @@
+body{
+    background-color:#C7C7C7 ;
+    padding: 25px;
+    -webkit-text-fill-color: #303841;
+    min-height: 100vh;
+
+}
+.navbar{
+    background-color: #F3E9EA;
+    margin-bottom: 45px;
+}
+
+.navbar-brand{
+    -webkit-text-fill-color: #303841;
+}
+
+.post-img{
+    display: flex;
+    justify-content: center;
+    width: 380px;
+    height: 380px;
+}
+
+.card{
+    background-color: #F3E9EA;
+    width: 70%;
+    margin-inline: auto;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.icon{
+    margin-inline:5px ;
+    margin-top: 0px;
+}
+

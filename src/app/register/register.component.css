@@ -1,0 +1,24 @@
+body{
+    background-color:#C7C7C7 ;
+    padding: 25px;
+    -webkit-text-fill-color: #303841;
+    min-height: 100vh;
+
+}
+.navbar{
+    background-color: #F3E9EA;
+    margin-bottom: 20px;
+}
+
+.navbar-brand{
+    -webkit-text-fill-color: #303841;
+}
+
+.card{
+    background-color: #F3E9EA;
+    width: 30%;
+    margin: auto;
+    padding: 20px;
+    
+    margin-top: 100px;
+}
